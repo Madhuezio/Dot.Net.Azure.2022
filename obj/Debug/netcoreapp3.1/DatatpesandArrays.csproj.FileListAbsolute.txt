@@ -1,0 +1,14 @@
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.exe
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.deps.json
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.runtimeconfig.json
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.runtimeconfig.dev.json
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.dll
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\bin\Debug\netcoreapp3.1\DatatpesandArrays.pdb
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.csproj.AssemblyReference.cache
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.AssemblyInfoInputs.cache
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.AssemblyInfo.cs
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.csproj.CoreCompileInputs.cache
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.dll
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.pdb
+C:\Users\madhu\source\repos\DatatpesandArrays\DatatpesandArrays\obj\Debug\netcoreapp3.1\DatatpesandArrays.genruntimeconfig.cache

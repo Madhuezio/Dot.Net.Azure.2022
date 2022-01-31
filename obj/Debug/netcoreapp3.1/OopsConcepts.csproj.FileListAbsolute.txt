@@ -1,0 +1,14 @@
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.exe
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.deps.json
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.json
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.runtimeconfig.dev.json
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.dll
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\bin\Debug\netcoreapp3.1\OopsConcepts.pdb
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.AssemblyInfo.cs
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.dll
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.pdb
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.genruntimeconfig.cache
+C:\Users\madhu\Desktop\.net\OopsConcepts\OopsConcepts\obj\Debug\netcoreapp3.1\OopsConcepts.csproj.AssemblyReference.cache
