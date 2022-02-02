@@ -4,7 +4,6 @@ C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPScon
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.runtimeconfig.dev.json
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.dll
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\bin\Debug\netcoreapp3.1\OOPSconcepts.pdb
-C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.csproj.AssemblyReference.cache
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.AssemblyInfoInputs.cache
 C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\OOPSconcepts\OOPSconcepts\obj\Debug\netcoreapp3.1\OOPSconcepts.AssemblyInfo.cs

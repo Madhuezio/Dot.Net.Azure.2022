@@ -40,7 +40,7 @@ namespace OOPSconcepts
     {
 
         // Driver Code
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
 
             Calculator num1 = new Calculator(200);
