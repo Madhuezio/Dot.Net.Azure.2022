@@ -1,0 +1,14 @@
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.exe
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.deps.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.runtimeconfig.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.runtimeconfig.dev.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\bin\Debug\netcoreapp3.1\Stringsproblems.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.csproj.AssemblyReference.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.AssemblyInfo.cs
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Stringsproblems\Stringsproblems\obj\Debug\netcoreapp3.1\Stringsproblems.genruntimeconfig.cache
