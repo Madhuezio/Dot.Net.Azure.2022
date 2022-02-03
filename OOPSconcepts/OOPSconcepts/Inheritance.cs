@@ -41,7 +41,7 @@ namespace OOPSconcepts
 
     class AlbumTest
     {
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
             PhotoAlbum album1 = new PhotoAlbum();
             PhotoAlbum album2 = new PhotoAlbum(24);
