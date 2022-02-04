@@ -27,7 +27,7 @@ namespace Structure_and_enum
 
     class Indexersinc
     {
-        public static void Main4()
+        public static void Main5()
         {
             IndexerCreation ic = new IndexerCreation();
             ic[0] = "JAVA";

@@ -52,9 +52,18 @@ namespace Structure_and_enum
     }
     class Examplestructure
     {
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
-
+            Console.Write("\n\nMethod that returns a structure  :\n");
+            Console.Write("--------------------------------------\n");
+            var Sqre = new Square();
+            Sqre.newSquare();
+            Console.WriteLine();
+            Console.WriteLine("Perimeter and Area of the square :");
+            Console.WriteLine("Length:    {0}", Sqre.Length.Value);
+            Console.WriteLine("Breadth:    {0}", Sqre.Breadth.Value);
+            Console.WriteLine("Perimeter: {0}", (Sqre.Length.Value + Sqre.Breadth.Value) * 2);
+            Console.WriteLine("Area:      {0}\n", Sqre.Length.Value * Sqre.Breadth.Value);
         }
     }
 }

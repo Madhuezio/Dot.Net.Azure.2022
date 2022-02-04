@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+/*
 namespace Structure_and_enum
 {
+    
     class Student1
     {
         private int rn = 5;
@@ -32,3 +33,4 @@ namespace Structure_and_enum
 
     }
 }
+    */

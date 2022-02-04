@@ -13,7 +13,7 @@ namespace Structure_and_enum
             Console.WriteLine(val.langauge);
             Console.WriteLine(val.nested_ob.email);
         }
-        public static void Main5()
+        public static void Main6()
         {
 
             var anony_Object = new

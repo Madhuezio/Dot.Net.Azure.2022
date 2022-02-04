@@ -40,7 +40,7 @@ namespace Structure_and_enum
 
     class EumsExample
     {
-        public static void Main2()
+        public static void Main4()
         {
             Console.WriteLine("Value of Monday is " + WeekDays.Monday);
             Console.WriteLine("Value of Monday is " + (int)WeekDays.Monday);
