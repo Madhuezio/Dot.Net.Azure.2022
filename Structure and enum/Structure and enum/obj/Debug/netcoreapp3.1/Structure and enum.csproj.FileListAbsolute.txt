@@ -1,0 +1,14 @@
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.exe
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.deps.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.runtimeconfig.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.runtimeconfig.dev.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\bin\Debug\netcoreapp3.1\Structure and enum.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.csproj.AssemblyReference.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.AssemblyInfo.cs
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Structure and enum\Structure and enum\obj\Debug\netcoreapp3.1\Structure and enum.genruntimeconfig.cache
