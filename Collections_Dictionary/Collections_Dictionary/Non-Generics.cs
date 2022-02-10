@@ -58,15 +58,15 @@ namespace Collections_Dictionary
 
 
             //LIFO
-            Stack s = new Stack();
-            s.Push("1");
-            s.Push("2");
-            s.Push("3");
+            //Stack s = new Stack();
+            //s.Push("1");
+            //s.Push("2");
+            //s.Push("3");
 
-            foreach (object item in s)
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (object item in s)
+            //{
+            //    Console.WriteLine(item);
+            //}
             //FIFO
             //Queue q = new Queue();
             //q.Enqueue("1");

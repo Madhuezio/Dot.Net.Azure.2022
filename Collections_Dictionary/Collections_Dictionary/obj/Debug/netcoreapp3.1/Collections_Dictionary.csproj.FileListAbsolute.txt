@@ -1,0 +1,5 @@
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Collections_Dictionary\Collections_Dictionary\obj\Debug\netcoreapp3.1\Collections_Dictionary.csproj.AssemblyReference.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Collections_Dictionary\Collections_Dictionary\obj\Debug\netcoreapp3.1\Collections_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Collections_Dictionary\Collections_Dictionary\obj\Debug\netcoreapp3.1\Collections_Dictionary.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Collections_Dictionary\Collections_Dictionary\obj\Debug\netcoreapp3.1\Collections_Dictionary.AssemblyInfo.cs
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\Collections_Dictionary\Collections_Dictionary\obj\Debug\netcoreapp3.1\Collections_Dictionary.csproj.CoreCompileInputs.cache

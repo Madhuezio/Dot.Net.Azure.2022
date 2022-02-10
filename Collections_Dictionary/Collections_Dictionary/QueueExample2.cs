@@ -4,6 +4,7 @@ using System.Collections;
 
 namespace Collections_Dictionary
 {
+    /*
     public class Person
     {
         public string Name { get; set; }
@@ -14,10 +15,12 @@ namespace Collections_Dictionary
         {
             return Name + " - " + Age;
         }
+    */
         class QueueObjects
         {
-            public static void Main(string[] args)
+            public static void Main9(string[] args)
             {
+            /*
                 System.Collections.Queue queue = new System.Collections.Queue();
                 int total = 3;
 
@@ -35,6 +38,7 @@ namespace Collections_Dictionary
                     Person p = (Person)queue.Dequeue();
                     Console.WriteLine(p.ToString());
                 }
+            */
             }
         }
     }
