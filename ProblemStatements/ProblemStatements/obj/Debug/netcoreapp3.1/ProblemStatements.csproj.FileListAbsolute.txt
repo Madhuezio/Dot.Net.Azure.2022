@@ -1,0 +1,14 @@
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.exe
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.deps.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.runtimeconfig.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.runtimeconfig.dev.json
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\bin\Debug\netcoreapp3.1\ProblemStatements.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.csproj.AssemblyReference.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.AssemblyInfoInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.AssemblyInfo.cs
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.csproj.CoreCompileInputs.cache
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.dll
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.pdb
+C:\Users\madhu\Desktop\.net\FirstConsoleApp\FirstConsoleApp\ProblemStatements\ProblemStatements\obj\Debug\netcoreapp3.1\ProblemStatements.genruntimeconfig.cache
