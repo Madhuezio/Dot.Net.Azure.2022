@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkxtIQxARQaPFq1LG1Fnx8Eyt5fnA8jZHAhf9FAaR2u4/aIc/kEOopQT5uFSH91Vo2y9tiWIarLF6+Y7OMEBPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madhu\\Desktop\\.net\\FirstConsoleApp\\FirstConsoleApp\\HandlingLibrabries\\HandlingLibrabries\\HandlingLibrabries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madhu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
