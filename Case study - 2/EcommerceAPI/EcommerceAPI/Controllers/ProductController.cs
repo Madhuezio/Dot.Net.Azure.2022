@@ -21,7 +21,6 @@ namespace EcommerceAPI.Controllers
         [HttpGet]
         public IEnumerable<Product> GetProducts()
         {
-            //var productData = _ecommerceDbContext.TblProducts.ToList();
             var productData = from P in _ecommerceDbContext.TblProducts
                               join PSC in _ecommerceDbContext.TblProductSizeColors
                               on P.Id equals PSC.ProductId
