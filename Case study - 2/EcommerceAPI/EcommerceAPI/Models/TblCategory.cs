@@ -9,6 +9,8 @@ namespace EcommerceAPI.Models
     {
         public int Id { get; set; }
         public string CategoryName { get; set; }
+        public string Size { get; set; }
+        public string Colour { get; set; }
         public int? ParentId { get; set; }
         public int? IsDeleted { get; set; }
         public int? CreatedBy { get; set; }
