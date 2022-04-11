@@ -1,0 +1,3 @@
+1.application with swagger.
+2.upload that application using azure paas service i.e azure web app.
+3.create a database and connect to this azure web app.
